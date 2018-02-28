@@ -1,4 +1,7 @@
-
+Observations:
+1.Lower Latitude has higher city temperatures
+2.Cloudiness seems to be spread across all latitudes
+3.Higher windspeeds seem to occur in higher latitudes
 
 ```python
 import random
